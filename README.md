@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Claire
+- 👀 I’m interested in ...
+- 🌱 I'm learning a little bit of everything
+- 📫 How to reach me clairemather03@gmail.com
