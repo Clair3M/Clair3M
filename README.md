@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Claire
-- 👀 I really love music, I play bass  and listen to a lot of indie pop, funk, and a bit of emo 🖤
+- 👀 I really love music, I play bass  and listen to a lot of indie pop, funk (really anything with great bass lines), and a bit of emo 🖤
 - 🌱 I really want to/am trying to learn some basic web development and am working to improve my OO skills
 - 📫 How to reach me clairemather03@gmail.com
