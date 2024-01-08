@@ -2,4 +2,4 @@ Hi, I'm Claire. I'm a 2nd year software engineering student. My github project a
 
 Languages:
 
-[![website](clairemather.com)]
+[Portfolio Website](clairemather.com)
